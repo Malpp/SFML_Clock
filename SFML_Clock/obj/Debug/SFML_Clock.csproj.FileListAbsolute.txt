@@ -1,0 +1,10 @@
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\SFML.Net Template.exe.config
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\SFML.Net Template.exe
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\SFML.Net Template.pdb
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\obj\Debug\SFML_Clock.csprojResolveAssemblyReference.cache
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\obj\Debug\SFML.Net Template.exe
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\obj\Debug\SFML.Net Template.pdb

@@ -1,0 +1,11 @@
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\SFML.Net Template.exe.config
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\SFML.Net Template.exe
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\SFML.Net Template.pdb
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\sfmlnet-audio-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\sfmlnet-graphics-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\sfmlnet-system-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\sfmlnet-window-2.dll
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\obj\x86\Debug\SFML.Net Template.exe
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\obj\x86\Debug\SFML.Net Template.pdb
+C:\Users\Doge\AppData\Local\Temporary Projects\SFML_Clock\bin\x86\Debug\arial.ttf
+C:\Programming\C#\SFML_Clock\SFML_Clock\bin\x86\Debug\SFML_Clock.exe.config
